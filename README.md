@@ -1,2 +1,2 @@
-# 2026-dev-diary
-A diary of 2026's personal dev work
+# 2026 Personal Dev Diary
+A diary of personal development work I have done during 2026
